@@ -1,0 +1,10 @@
+{# 告知浏览器此页面属于什么字符编码格式 #}
+<meta charset="UTF-8">
+
+{# url_for()函数最简单的用法是以视图函数名作为参数，返回对应的url，还可以用作加载静态文件 #}
+{# rel是relationship的英文缩写，它描述了当前页面与href所指定文档的关系 #}
+{# rel="stylesheet"就是声明此文件为样式表文件，告诉浏览器你link过来的是一个样式 #}
+<link href="{{ url_for('static',filename='site.css') }}" rel="stylesheet">
+
+{# 定义了一个名为title的block #}
+<title>{% block title %}{% endblock %}</title>
