@@ -16,7 +16,7 @@ Flask-SQLAlchemy==2.0
 Flask-WTF==0.12
 ForgeryPy==0.1
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 livereload==2.5.2
 Mako==1.0.1
 Markdown==2.6.11
