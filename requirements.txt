@@ -1,5 +1,5 @@
 alembic==0.8.1
-Babel==2.6.0
+Babel==2.9.1
 backports.ssl-match-hostname==3.4.0.2
 click==6.7
 dominate==2.1.12
