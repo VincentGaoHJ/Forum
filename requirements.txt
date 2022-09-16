@@ -18,7 +18,7 @@ ForgeryPy==0.1
 itsdangerous==0.24
 Jinja2==2.7.3
 livereload==2.5.2
-Mako==1.0.1
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==0.23
 psycopg2==2.7.5
